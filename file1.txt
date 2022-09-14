@@ -1,2 +1,2 @@
 Hello my friend! I am glad to see you!
-See you! Made a change branch.
+See you! Made a change branch. The branch moved farther.
